@@ -1,0 +1,15 @@
+/Users/jahhhh/Documents/C++Assingments/C++Assign8/CSharpApp/bin/Debug/net9.0/CSharpApp
+/Users/jahhhh/Documents/C++Assingments/C++Assign8/CSharpApp/bin/Debug/net9.0/CSharpApp.deps.json
+/Users/jahhhh/Documents/C++Assingments/C++Assign8/CSharpApp/bin/Debug/net9.0/CSharpApp.runtimeconfig.json
+/Users/jahhhh/Documents/C++Assingments/C++Assign8/CSharpApp/bin/Debug/net9.0/CSharpApp.dll
+/Users/jahhhh/Documents/C++Assingments/C++Assign8/CSharpApp/bin/Debug/net9.0/CSharpApp.pdb
+/Users/jahhhh/Documents/C++Assingments/C++Assign8/CSharpApp/obj/Debug/net9.0/CSharpApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jahhhh/Documents/C++Assingments/C++Assign8/CSharpApp/obj/Debug/net9.0/CSharpApp.AssemblyInfoInputs.cache
+/Users/jahhhh/Documents/C++Assingments/C++Assign8/CSharpApp/obj/Debug/net9.0/CSharpApp.AssemblyInfo.cs
+/Users/jahhhh/Documents/C++Assingments/C++Assign8/CSharpApp/obj/Debug/net9.0/CSharpApp.csproj.CoreCompileInputs.cache
+/Users/jahhhh/Documents/C++Assingments/C++Assign8/CSharpApp/obj/Debug/net9.0/CSharpApp.sourcelink.json
+/Users/jahhhh/Documents/C++Assingments/C++Assign8/CSharpApp/obj/Debug/net9.0/CSharpApp.dll
+/Users/jahhhh/Documents/C++Assingments/C++Assign8/CSharpApp/obj/Debug/net9.0/refint/CSharpApp.dll
+/Users/jahhhh/Documents/C++Assingments/C++Assign8/CSharpApp/obj/Debug/net9.0/CSharpApp.pdb
+/Users/jahhhh/Documents/C++Assingments/C++Assign8/CSharpApp/obj/Debug/net9.0/CSharpApp.genruntimeconfig.cache
+/Users/jahhhh/Documents/C++Assingments/C++Assign8/CSharpApp/obj/Debug/net9.0/ref/CSharpApp.dll
