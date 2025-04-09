@@ -10,3 +10,8 @@ TEST(MathLibTests, SubtractDoubles) {
     EXPECT_DOUBLE_EQ(subtract_doubles(-1.0, -1.0), 0.0);
     EXPECT_DOUBLE_EQ(subtract_doubles(0.0, 3.0), -3.0);
 }
+
+TEST(MathLibTests, MultiplyDoubles) {
+    EXPECT_DOUBLE_EQ(multiply_doubles(2.0, 3.5), 7.0);
+    EXPECT_DOUBLE_EQ(multiply_doubles(-1.0, 4.0), -4.0);
+}
