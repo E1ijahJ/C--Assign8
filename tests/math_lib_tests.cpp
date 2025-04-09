@@ -15,3 +15,8 @@ TEST(MathLibTests, MultiplyDoubles) {
     EXPECT_DOUBLE_EQ(multiply_doubles(2.0, 3.5), 7.0);
     EXPECT_DOUBLE_EQ(multiply_doubles(-1.0, 4.0), -4.0);
 }
+
+TEST(MathLibTests, DivideDoubles) {
+    EXPECT_DOUBLE_EQ(divide_doubles(10.0, 2.0), 5.0);
+    EXPECT_DOUBLE_EQ(divide_doubles(-6.0, 3.0), -2.0);
+}
