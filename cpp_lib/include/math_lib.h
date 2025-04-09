@@ -1,10 +1,14 @@
-#ifndef MATH_LIB_H
-#define MATH_LIB_H
+#pragma once
 
+#ifdef __cplusplus
 extern "C" {
-  double add(double a, double b);
-double subtract_doubles(double a, double b);
-double multiply_doubles(double a, double b);
-double divide_doubles(double a, double b);
+#endif
+
+double add(double a, double b);
+double subtract(double a, double b);
+double multiply(double a, double b);
+double divide(double a, double b);
+
+#ifdef __cplusplus
 }
 #endif

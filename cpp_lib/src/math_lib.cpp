@@ -1,19 +1,22 @@
 #include "math_lib.h"
 #include <stdexcept>
+extern "C" {
 
-double subtract_doubles(double a, double b) {
-    return a - b;
-}
-extern "C" double add(double a, double b) {
+double add(double a, double b) {
     return a + b;
 }
-double multiply_doubles(double a, double b) {
+
+double subtract(double a, double b) {
+    return a - b;
+}
+
+double multiply(double a, double b) {
     return a * b;
 }
 
-double divide_doubles(double a, double b) {
-    if (b == 0.0) {
-        throw std::invalid_argument("Division by zero is undefined.");
-    }
+double divide(double a, double b) {
+    if (b == 0) throw std::invalid_argument("Division by zero");
     return a / b;
+}
+
 }
