@@ -27,3 +27,7 @@ target_include_directories(math_lib PUBLIC
 
 enable_testing()
 add_subdirectory(tests)
+set_target_properties(math_lib PROPERTIES
+    OUTPUT_NAME "math_lib"
+    PREFIX "lib"
+)
