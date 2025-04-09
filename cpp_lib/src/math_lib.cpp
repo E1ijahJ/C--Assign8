@@ -6,3 +6,6 @@ double subtract_doubles(double a, double b) {
 extern "C" double add(double a, double b) {
     return a + b;
 }
+double multiply_doubles(double a, double b) {
+    return a * b;
+}
